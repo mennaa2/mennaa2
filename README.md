@@ -4,7 +4,7 @@
 💡 Passionate about Data Science, Machine Learning & AI  
 📚 Data Science | Data Analysis | Data-Driven Machine Learning Engineer
 
-📄 **[View My Resume](https://drive.google.com/file/d/1tNDrEFQsudfYeXWlvGwkeXkNG5vmmREG/view)**
+📄 **[View My Resume](https://drive.google.com/file/d/1n5c9dbnlyWcuYuzhdLWGYg7cCr0qziul/view?usp=sharing)**
 ---
 
 ## 🎓 About Me
