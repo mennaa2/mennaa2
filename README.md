@@ -76,12 +76,12 @@ I enjoy learning new technologies, solving problems, and building practical proj
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mennaa2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennaa2&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mennaa2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mennaa2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mennaa2&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=mennaa2&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
