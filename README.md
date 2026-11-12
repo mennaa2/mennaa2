@@ -84,13 +84,6 @@ I enjoy learning new technologies, solving problems, and building practical proj
   <img width="90%" src="https://streak-stats.demolab.com/?user=mennaa2&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mennaa2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</p>
 
 ---
 
