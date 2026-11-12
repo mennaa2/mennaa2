@@ -89,7 +89,7 @@ I enjoy learning new technologies, solving problems, and building practical proj
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mennaa2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mennaa2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
 ---
